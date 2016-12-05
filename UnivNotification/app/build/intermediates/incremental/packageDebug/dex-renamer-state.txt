@@ -1,0 +1,7 @@
+#Mon Dec 05 17:32:00 KST 2016
+base.0=C\:\\Users\\rexja\\AndroidStudioProjects\\UnivNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_93892f9609d591309811bbfa559b2151777223e3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\rexja\\AndroidStudioProjects\\UnivNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_364bc3cef0f24f658fda27fc08f4d86989a634c4\\classes.dex
+base.1=C\:\\Users\\rexja\\AndroidStudioProjects\\UnivNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_364bc3cef0f24f658fda27fc08f4d86989a634c4
+file.0=C\:\\Users\\rexja\\AndroidStudioProjects\\UnivNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_93892f9609d591309811bbfa559b2151777223e3\\classes.dex
